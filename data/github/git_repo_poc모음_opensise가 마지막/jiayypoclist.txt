@@ -1,0 +1,16 @@
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2016-6738    CVE-2016-6738
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2016-3865    CVE-2016-3865
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/cve-2016-3866    CVE-2016-3866
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/cve-2016-6690    CVE-2016-6690
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/cve-2016-3901    CVE-2016-3901
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2016-3906    CVE-2016-3906
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2016-0805    CVE-2016-0805
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2016-6745    CVE-2016-6745
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/cve-2016-3935    CVE-2016-3935
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2016-6725    CVE-2016-6725
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/cve-2016-3940    CVE-2016-3940
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2016-3857    CVE-2016-3857
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2017-0329    CVE-2017-0329
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2016-0844    CVE-2016-0844
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/CVE-2016-3869    CVE-2016-3869
+https://github.com/jiayy/android_vuln_poc-exp/tree/master/EXP-CVE-2016-2411    CVE-2016-2411
