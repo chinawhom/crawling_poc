@@ -2,9 +2,9 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 
-url="https://packetstormsecurity.com/files/tags/exploit/page"
+url="http://packetstormsecurity.com/files/tags/exploit/page"
 f=open('C:/Users/sskk1/Desktop/packetstormpoc.txt','w')
-for i in range(1663):
+for i in range(1,1663):
 	html=urllib.request.urlopen(url+str(i))
 	soup=BeautifulSoup(html,'html.parser')
 	dllist=soup.find_all('dl')
