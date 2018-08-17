@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import re
 
 url="http://packetstormsecurity.com/files/tags/exploit/page"
-f=open('C:/Users/sskk1/Desktop/packetstormpoc.txt','w')
-for i in range(1,1663):
+f=open('C:/Users/sskk1/Desktop/packetstormpoc.txt','a')
+for i in range(1605,1663):
 	html=urllib.request.urlopen(url+str(i))
 	soup=BeautifulSoup(html,'html.parser')
 	dllist=soup.find_all('dl')
