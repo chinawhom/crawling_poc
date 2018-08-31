@@ -1,4 +1,5 @@
 #get cve, title, date in bugtraq mail list from cve.mitre
+#4361까지 payload X
 import urllib.request
 from bs4 import BeautifulSoup
 import re
@@ -8,8 +9,8 @@ date=''
 title=''
 cve=[]
 mondic={'01':'Jan','02':'Feb','03':'Mar','04':'Apr','05':'May','06':'Jun','07':'Jul','08':'Aug','09':'Sep','10':'Oct','11':'Nov','12':'Dec'}
-f=open('C:/Users/sskk1/Desktop/bugtraq.txt','w')
-e=open('C:/Users/sskk1/Desktop/bugtraqerrtr.txt','w')
+f=open('C:/Users/sskk1/Desktop/bugtraq.txt','a')
+e=open('C:/Users/sskk1/Desktop/bugtraqerrtr.txt','a')
 def get_mail_info(tr):
 	global date
 	global title
@@ -47,25 +48,23 @@ soup=BeautifulSoup(html,'html.parser')
 table=soup.find_all('table')
 table=table[3]
 trlist=table.find_all('tr')
-for mail in trlist[2:-28]:
+for mail in trlist[17400:18175]:
 	cve=[]
 	get_mail_info(mail)
 	try:
 		link=get_mail_link("http://seclists.org/bugtraq/"+date[:4]+"/"+mondic[date[4:6]],title)
+
+		req=urllib.request.urlopen(link)
+		html=req.read()
+		soup=BeautifulSoup(html,'html.parser')
+		content=soup.find('pre').text
+		content=content.lower()
+		if 'exploit code' in content or 'poc' in content or 'payload' in content:
+			for c in cve:
+				f.write(c+"        "+link+"\n")
 	except:
 		e.write(title+"\n")
-		continue
-	if link==0:
-		e.write(title+"\n")
-		continue
-	req=urllib.request.urlopen(link)
-	html=req.read()
-	soup=BeautifulSoup(html,'html.parser')
-	content=soup.find('pre').text
-	content=content.lower()
-	if 'exploit code' in content or 'poc' in content:
-		for c in cve:
-			f.write(c+"        "+link+"\n")
-	print("[+]"+title)
+
+	print("["+str(trlist.index(mail))+"]"+title)
 
 
