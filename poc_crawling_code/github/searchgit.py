@@ -3,17 +3,19 @@ from bs4 import BeautifulSoup
 import time
 import sys
 sys.setrecursionlimit(10000)
-num=0
-urlh="https://github.com/search?q="
 
+urlh="https://github.com/search?q="
 urlt="+poc&type=Repositories"
+num=0
+find=0
+
 f=open('C:/Users/sskk1/Desktop/cveforgit9.txt','r')
 nf=open('C:/Users/sskk1/Desktop/gitnopoclist.txt','a')
 gitpoc=open('C:/Users/sskk1/Desktop/gitsearchlist.txt',"a")
 cvelist=f.readlines()
 hdr = {'User-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'}
-find=0
-for cve in cvelist:
+
+for cve in cvelist[num:num+100]:
     request=urllib.request.Request(urlh+cve[:-1]+urlt, headers=hdr)
     response=urllib.request.urlopen(request)
     html=response.read()
@@ -34,7 +36,6 @@ for cve in cvelist:
     else:
         nf.write(cve)
     
-    num+=1
     time.sleep(20)
 
 print("# of find :"),
