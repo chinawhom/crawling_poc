@@ -1,0 +1,12 @@
+CVE-2014-7175     https://github.com/beefproject/beef/blob/fbac8cd55ae5b7e6ff6791ec039eb88e94d124a8/modules/exploits/farsite_x25_remote_shell/config.yaml
+CVE-2015-009     https://github.com/beefproject/beef/blob/32d2226991ac30f0e1a75d4ce5e26716c2e5d6c5/arerules/ie_win_htapowershell.json
+CVE-2014-879     https://github.com/beefproject/beef/blob/32d2226991ac30f0e1a75d4ce5e26716c2e5d6c5/arerules/ie_win_htapowershell.json
+CVE-2012-0830     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/php-5.3.9-dos/config.yaml
+CVE-2014-5287     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/kemp_command_execution/config.yaml
+CVE-2014-5288     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/kemp_command_execution/config.yaml
+CVE-2012-0053     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/apache_cookie_disclosure/config.yaml
+CVE-2010-2861     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/coldfusion_dir_traversal_exploit/config.yaml
+CVE-2011-3230     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/local_host/safari_launch_app/config.yaml
+CVE-2014-627     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/shell_shocked/config.yaml
+CVE-2010-1622     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/spring_framework_malicious_jar/config.yaml
+CVE-2013-2645     https://github.com/beefproject/beef/blob/1dea97511bc33d37e4e08e2742bf12de13d19d04/modules/exploits/router/tplink_dns_csrf/config.yaml

@@ -1,0 +1,1 @@
+CVE-2012-0053     https://github.com/beefproject/beef/blob/fca5279f17b0ab44fe3e3682e7a97f8dc66dbd30/modules/exploits/apache_cookie_disclosure/config.yaml

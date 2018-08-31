@@ -1,0 +1,70 @@
+CVE-2013-2171        /rapid7/metasploit-framework/tree/master/external/source/exploits/CVE-2013-2171    CVE-2013-2171
+CVE-2018-1000001        /rapid7/metasploit-framework/tree/master/data/exploits/cve-2018-1000001    CVE-2018-1000001
+CVE-2015-1328        /rapid7/metasploit-framework/tree/master/external/source/exploits/CVE-2015-1328    CVE-2015-1328
+CVE-2014-3153        /rapid7/metasploit-framework/tree/master/external/source/exploits/CVE-2014-3153    CVE-2014-3153
+CVE-2017-16995        /rapid7/metasploit-framework/tree/master/data/exploits/cve-2017-16995    CVE-2017-16995
+CVE-2015-8660        /rapid7/metasploit-framework/tree/master/external/source/exploits/CVE-2015-8660    CVE-2015-8660
+CVE-2016-4557        /rapid7/metasploit-framework/tree/master/data/exploits/CVE-2016-4557    CVE-2016-4557
+CVE-2013-0074        /rapid7/metasploit-framework/tree/master/external/source/exploits/cve-2013-0074    CVE-2013-0074
+CVE-2017-0358        /rapid7/metasploit-framework/tree/master/data/exploits/CVE-2017-0358    CVE-2017-0358
+CVE-2017-7494        /rapid7/metasploit-framework/tree/master/data/exploits/CVE-2017-7494    CVE-2017-7494
+CVE-2018-8897        /rapid7/metasploit-framework/tree/master/external/source/exploits/cve-2018-8897    CVE-2018-8897
+CVE-2016-8655        /rapid7/metasploit-framework/tree/master/data/exploits/CVE-2016-8655    CVE-2016-8655
+CVE-2017-1000112        /rapid7/metasploit-framework/tree/master/data/exploits/cve-2017-1000112    CVE-2017-1000112
+CVE-2013-1493        /rapid7/metasploit-framework/tree/master/external/source/exploits/cve-2013-1493    CVE-2013-1493
+CVE-2014-0038        /rapid7/metasploit-framework/tree/master/data/exploits/CVE-2014-0038    CVE-2014-0038
+CVE-2017-7308        /rapid7/metasploit-framework/tree/master/data/exploits/cve-2017-7308    CVE-2017-7308
+CVE-2016-4997        /rapid7/metasploit-framework/tree/master/data/exploits/CVE-2016-4997    CVE-2016-4997
+CVE-2010-3904        /rapid7/metasploit-framework/tree/master/data/exploits/cve-2010-3904    CVE-2010-3904
+CVE-2016-10033        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/multi/http/phpmailer_arg_injection.rb
+CVE-2013-2171        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/freebsd/local/mmap.rb
+CVE-2018-1000001        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/glibc_realpath_priv_esc.rb
+CVE-2014-3566        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/http/ssl_version.rb
+CVE-2017-8779        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/rpc/rpcbomb.rb
+CVE-2015-1328        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/overlayfs_priv_esc.rb
+CVE-2014-3153        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/external/source/exploits/CVE-2014-3153/Makefile
+CVE-2013-1775        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/osx/local/sudo_password_bypass.rb
+CVE-2017-16995        /rapid7/metasploit-framework/blob/8785ec21b6f2090f49086e15ac4248efe556bf1d/modules/exploits/linux/local/bpf_sign_extension_priv_esc.rb
+CVE-2016-10045        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/multi/http/phpmailer_arg_injection.rb
+CVE-2013-5211        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/ntp/ntp_monlist.rb
+CVE-2016-6210        /rapid7/metasploit-framework/blob/36e35d116df4c37b17bcc3e6f38c226143446b95/modules/auxiliary/scanner/ssh/ssh_enumusers.rb
+CVE-2014-6271        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/multi/http/cups_bash_env_exec.rb
+CVE-2015-8660        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/overlayfs_priv_esc.rb
+CVE-2012-2329        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/encoders/x86/avoid_underscore_tolower.rb
+CVE-2014-8517        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/unix/http/tnftp_savefile.rb
+CVE-2016-4557        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/bpf_priv_esc.rb
+CVE-2015-0240        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/smb/smb_uninit_cred.rb
+CVE-2013-0074        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/windows/browser/ms13_022_silverlight_script_object.rb
+CVE-2006-3747        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/windows/http/apache_mod_rewrite_ldap.rb
+CVE-2013-1899        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/postgres/postgres_dbname_flag_injection.rb
+CVE-2012-6329        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/unix/webapp/twiki_maketext.rb
+CVE-2015-0235        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/http/wordpress_ghost_scanner.rb
+CVE-2017-0358        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/ntfs3g_priv_esc.rb
+CVE-2009-1386        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/ssl/dtls_changecipherspec.rb
+CVE-2011-0014        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/vmware/vmware_update_manager_traversal.rb
+CVE-2013-4450        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/http/nodejs_pipelining.rb
+CVE-2016-2776        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/dns/bind_tsig.rb
+CVE-2012-5959        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/upnp/ssdp_msearch.rb
+CVE-2011-3192        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/http/apache_range_dos.rb
+CVE-2017-7494        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/documentation/modules/exploit/linux/samba/is_known_pipename.md
+CVE-2014-0224        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/gather/ssllabs_scan.rb
+CVE-2016-7976        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/unix/fileformat/imagemagick_delegate.rb
+CVE-2018-8897        /rapid7/metasploit-framework/blob/32384cf8507a4649ba802a951afc506ccf8b178f/external/source/exploits/cve-2018-8897/exe/README.md
+CVE-2016-8655        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/af_packet_chocobo_root_priv_esc.rb
+CVE-2012-2122        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/mysql/mysql_authbypass_hashdump.rb
+CVE-2017-1000112        /rapid7/metasploit-framework/blob/8785ec21b6f2090f49086e15ac4248efe556bf1d/modules/exploits/linux/local/ufo_privilege_escalation.rb
+CVE-2015-5477        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/dns/bind_tkey.rb
+CVE-2009-3563        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/ntp/ntpd_reserved_dos.rb
+CVE-2016-1531        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/unix/local/exim_perl_startup.rb
+CVE-2014-9390        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/multi/http/git_client_command_exec.rb
+CVE-2012-1823        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/multi/http/php_cgi_arg_injection.rb
+CVE-2010-0425        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/http/apache_mod_isapi.rb
+CVE-2013-1493        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/external/source/exploits/cve-2013-1493/Makefile
+CVE-2014-6278        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/multi/http/cups_bash_env_exec.rb
+CVE-2014-0038        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/recvmmsg_priv_esc.rb
+CVE-2014-0195        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/dos/ssl/dtls_fragment_overflow.rb
+CVE-2017-7308        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/af_packet_packet_set_ring_priv_esc.rb
+CVE-2016-4997        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/netfilter_priv_esc_ipv4.rb
+CVE-2012-5958        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/auxiliary/scanner/upnp/ssdp_msearch.rb
+CVE-2017-1000117        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/multi/http/git_submodule_command_exec.rb
+CVE-2010-3904        /rapid7/metasploit-framework/blob/76954957c740525cff2db5a60bcf936b4ee06c42/modules/exploits/linux/local/rds_priv_esc.rb

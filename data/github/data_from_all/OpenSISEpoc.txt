@@ -1,0 +1,5 @@
+/OpenSISE/CVE_PoC_Collect/tree/master/EoP/android/CVE-2015-3636    CVE-2015-3636
+/OpenSISE/CVE_PoC_Collect/blob/master/Browser/CVE-2016-1669.html    CVE-2016-1669
+/OpenSISE/CVE_PoC_Collect/tree/master/EoP/linux/CVE-2014-0038    CVE-2014-0038
+/OpenSISE/CVE_PoC_Collect/tree/master/RCE/android/CVE-2015-7547    CVE-2015-7547
+/OpenSISE/CVE_PoC_Collect/blob/master/Browser/CVE-2016-1699.txt    CVE-2016-1699

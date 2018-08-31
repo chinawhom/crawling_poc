@@ -1,0 +1,12 @@
+CVE-2017-0478	https://github.com/JiounDai/CVE-2017-0478
+CVE-2015-6620	https://github.com/flankerhqd/CVE-2015-6620-POC
+CVE-2012-0809	https://github.com/BuddhaLabs/PacketStorm-Exploits/blob/master/1305-exploits/death-star.c
+CVE-2012-1173	https://github.com/lieanu/it-sec-catalog/blob/master/Exploitation.md
+CVE-2015-1528	https://github.com/secmob/PoCForCVE-2015-1528
+CVE-2015-1528	https://github.com/secmob/PoCForCVE-2015-1528
+https://github.com/EggUncle/CVE-2017-0780     CVE-2017-0780
+https://github.com/cujanovic/CVE-2016-8610-PoC     CVE-2016-8610
+https://github.com/mmetince/CVE-2014-9390     CVE-2014-9390
+https://github.com/fi01/CVE-2015-3636     CVE-2015-3636
+https://github.com/Gnoxter/mountain_goat     CVE-2016-5696
+https://github.com/vpereira/CVE-2009-5147     CVE-2009-5147
